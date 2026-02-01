@@ -1,11 +1,5 @@
 #include <stdio.h>
-
-/* 
- * The classic "hello, world" program
- * From K&R page 6
- */
-
-main()
+main() 
 {
     printf("hello, world\n");
 }
