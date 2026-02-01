@@ -1,0 +1,21 @@
+
+## **1.5-character-input-output/**
+
+### **1.5.1-file-copying/**
+
+**1.5-character-input-output/1.5.1-file-copying/file_copy_v1.c**
+```c
+#include <stdio.h>
+
+/* copy input to output; 1st version */
+
+main()
+{
+    int c;
+    
+    c = getchar();
+    while (c != EOF) {
+        putchar(c);
+        c = getchar();
+    }
+}

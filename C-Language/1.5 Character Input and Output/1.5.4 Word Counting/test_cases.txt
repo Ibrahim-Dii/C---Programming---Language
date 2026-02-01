@@ -1,0 +1,7 @@
+This is a test file for word counting.
+It contains multiple lines with various spacing.
+
+Some lines have   extra   spaces   between   words.
+Others	have	tabs	instead	of	spaces.
+
+Line with punctuation: Hello, world! How are you?
